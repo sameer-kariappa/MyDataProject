@@ -25,5 +25,3 @@ clc
     % Figure Outputs
         plot(tout,data)
         xlabel('time')
-        ylabel('Signal')
-        title('Data being displayed')
