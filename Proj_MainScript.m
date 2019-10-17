@@ -24,4 +24,4 @@ clc
     
     % Figure Outputs
         plot(tout,data)
-        xlabel('time (seconds)')
+        xlabel('timestamp (seconds)')
